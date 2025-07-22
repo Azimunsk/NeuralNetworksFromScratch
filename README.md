@@ -17,5 +17,5 @@ This repository contains simple implementations of feedforward neural networks b
 ## ⚙️ How to Run
 
 ```bash
-python NN_2_1.py
-python NN_2_2.py
+python threeNN.py
+python fiveNN.py
